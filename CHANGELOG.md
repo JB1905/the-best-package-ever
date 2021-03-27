@@ -2,26 +2,26 @@
 
 ## 21.37.0 (2020-04-01)
 
-#### New Feature
+### New Feature
 
 - THE MOST IMPORTANT NEW FEATURES EVER
 
-#### Bug Fix
+### Bug Fix
 
 - THE MOST IMPORTANT BUG FIX EVER
 
-#### Breaking Changes
+### Breaking Changes
 
 - THE MOST IMPORTANT BREAKING CHANGES EVER
 
-#### Improvement
+### Improvement
 
 - THE MOST IMPORTANT IMPROVEMENTS EVER
 
-#### Repository Changes
+### Repository Changes
 
 - THE MOST IMPORTANT REPOSITORY CHANGES EVER
 
-#### Documentation
+### Documentation
 
 - THE MOST IMPORTANT DOCUMENTATION CHANGES EVER
