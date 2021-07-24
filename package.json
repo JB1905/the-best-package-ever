@@ -7,7 +7,7 @@
   "main": "src/the-most-important-and-only-file-in-the-most-important-package-ever.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JB1905/the-best-package-ever.git"
+    "url": "https://github.com/stupid-projects/the-best-package-ever.git"
   },
   "keywords": [
     "THE",
@@ -18,7 +18,7 @@
     "!!!!!"
   ],
   "bugs": {
-    "url": "https://github.com/JB1905/the-best-package-ever/issues"
+    "url": "https://github.com/stupid-projects/the-best-package-ever/issues"
   },
-  "homepage": "https://github.com/JB1905/the-best-package-everS#readme"
+  "homepage": "https://github.com/stupid-projects/the-best-package-ever#readme"
 }
